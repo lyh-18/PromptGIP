@@ -1,0 +1,1 @@
+Put the pretrained model (PromptGIP-checkpoint.pth) in this folder.
