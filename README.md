@@ -18,7 +18,7 @@ We propose a universal model for general image processing that covers image rest
 
 ## News
 
-- [2024/6/13] :zap: We have released the codes! Please refer to the following instructions.
+- [2024/6/17] :zap: We have released the codes! Please refer to the following instructions.
 
   
   
@@ -84,7 +84,8 @@ If you want to train PromptGIP, you can execute the follow script.
 ```
 bash run_train_PromptGIP.sh
 ```
-  
+
+You may prepare the training datasets as described in the paper.
 
 ## Citation
 
